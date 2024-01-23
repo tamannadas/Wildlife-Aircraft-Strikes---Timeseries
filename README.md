@@ -22,6 +22,7 @@ The dataset comprises a comprehensive collection of airplane-wildlife strike inc
 In this project, I leveraged Python and statistical techniques to analyze and forecast aviation wildlife strikes. The project involved meticulous data cleansing and in-depth analysis, ensuring high data quality and reliability. I handled data integrity and cleansing, employing custom functions for in-depth dataset assessment and optimization.
 ## Geospatial Analysis
 A key component of this project was the geospatial analysis. Using the Cartopy library, I mapped wildlife strike incidents, revealing crucial geographical patterns and high-risk areas. This analysis not only added a spatial dimension to the data but also provided insights vital for regional safety strategies in aviation.
+![Alt text](https://github.com/tamannadas/Wildlife-Aircraft-Strikes---Timeseries/blob/main/Hotspots.PNG?raw=true)
 ## Modeling and Analysis
 I adeptly implemented a SARIMAX model, optimizing it through precise parameter selection. This model provided a detailed 5-year forecast, aligning closely with historical data trends.
 ## Model Benefits and Future Potential
